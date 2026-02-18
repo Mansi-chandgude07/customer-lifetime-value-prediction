@@ -92,5 +92,5 @@ Applicable across industries such as:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CLV-Prediction.git
+git clone https://github.com/mansi-chandgude07/CLV-Prediction.git
 cd CLV-Prediction
